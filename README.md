@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=d9c2aa&height=190&section=header&text=Mosammat%20Tabasum%20Mastaba%20Isma&fontSize=36&fontColor=2a2420&fontAlignY=38&desc=Computer%20Vision%20%26%20Deep%20Learning&descSize=18&descAlignY=60&descColor=5c4637" alt="Banner" />
+   <img src="banner.png" alt="Mosammat Tabasum Mastaba Isma, Computer Vision and Deep Learning" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=5C4637&center=true&vCenter=true&width=720&lines=I+teach+machines+to+see+cracks;First+author+%E2%80%94+IEEE+ICISET+2026+(oral);PyTorch+%7C+Image+Segmentation+%7C+Research;Keen+to+bring+imagery-based+AI+to+agriculture" alt="Typing animation" />
 

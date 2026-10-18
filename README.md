@@ -73,6 +73,5 @@ My thesis, **BAGFD-Net**, reached **90.46% mIoU** on crack segmentation and is a
 
 📬 *Open to data science and computer vision roles. Let's connect!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=d9c2aa&height=100&section=footer" alt="Footer" />
 
 </div>

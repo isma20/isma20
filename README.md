@@ -1,4 +1,4 @@
-# Hi, I'm Isma 👋
+# Hi, I'm Mosammat Tabasum Mastaba Isma 👋
 
 **Computer and Communication Engineering graduate** from Chittagong, Bangladesh.
 
